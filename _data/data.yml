@@ -7,22 +7,22 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Hancel Rigoberto Ávila Galindo # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: hancel@gmail.com
+  phone: 312 134 6452
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: www.linkedin.com/in/hancel-avila/
+  github: github.com/hancel-avila
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  twitter: "@Hancel"
+  stack-overflow: 14905380/hancel-Ávila
+  codewars: www.codewars.com/users/Hancelot
+  goodreads: 16858477-hancel
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -32,31 +32,35 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom: French
+      level: Competent
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Creative
       link: # dejar en blanco
 
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Empathy
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Since I was a child I became interested in game development, that’s why
+    in high school I started to study coding. I grew up with the philosophy to never stop learning and I'm strongly passionate about being self-taught. I love reading and play the guitar.
+
+    About my strengths I can highlight my tenacious stimulus of curiosity, and my focus on
+    achieving my goals. I am a proactive and diligent person who loves technology and aspires to become a frontend developer, in a company where I can contribute with my enthusiasm and my skills in many ambitious projects.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Internship trainee
+    university: Magmahackers (Bright Coders Academy)
+    time: 2021 May - current
     details: |
 
   - degree: PhD in Computer vision and Machine learning
