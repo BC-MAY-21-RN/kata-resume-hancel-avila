@@ -54,7 +54,7 @@ career-profile:
     in high school I started to study coding. I grew up with the philosophy to never stop learning and I'm strongly passionate about being self-taught. I love reading and play the guitar.
 
     About my strengths I can highlight my tenacious stimulus of curiosity, and my focus on
-    achieving my goals. I am a proactive and diligent person who loves technology and aspires to become a frontend developer, in a company where I can contribute with my enthusiasm and my skills in many ambitious projects.
+    achieving my goals. I am a proactive and diligent person who loves technology and aspires to become a frontend developer, in a company where I can contribute with my enthusiasm and my skills in many ambitious projects, that's why I started to learn to code on my own among many other frontend technologies.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -63,58 +63,25 @@ educationcomplete:
     time: 2021 May - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Master in tax law (passing letter)
+    university: UNIVA
+    time: 2011 - 2013
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+      Fiscal and taxes laws according to the taxation rules on Mexico.
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+  - degree: Law degree
+    university: UNIVA
+    time: 2006 - 2009
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      Legal studies on a constitutional basis.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Web Developer
+    time: 2021 - Present
+    company: Devux, Guadalajara
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Frontend development with responsive and aesthetic design, layouts and implementing Javascript for ecommerce websites.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -126,22 +93,16 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 80%
 
-    - name: C/C++
+    - name: SASS
+      level: 20%
+
+    - name: Javascript
       level: 40%
 
 # NO MODIFICAR
