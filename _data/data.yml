@@ -50,8 +50,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Since I was a child I became interested in game development, that’s why
-    in high school I started to study coding. I grew up with the philosophy to never stop learning and I'm strongly passionate about being self-taught. I love reading and play the guitar.
+    Since I was a child I became interested in game development, that’s why in high school I started to study coding. I grew up with the philosophy to never stop learning and I'm strongly passionate about being self-taught. I love reading and play the guitar.
 
     About my strengths I can highlight my tenacious stimulus of curiosity, and my focus on
     achieving my goals. I am a proactive and diligent person who loves technology and aspires to become a frontend developer, in a company where I can contribute with my enthusiasm and my skills in many ambitious projects, that's why I started to learn to code on my own among many other frontend technologies.
@@ -63,7 +62,7 @@ educationcomplete:
     time: 2021 May - current
     details: |
 
-  - degree: Master in tax law (passing letter)
+  - degree: Master in tax law (letter of completition)
     university: UNIVA
     time: 2011 - 2013
     details: |
@@ -103,7 +102,10 @@ skills:
       level: 20%
 
     - name: Javascript
-      level: 40%
+      level: 60%
+      
+    - name: React Native
+      level: 20%
 
 # NO MODIFICAR
 footer: >
