@@ -43,6 +43,9 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
+    - item: Self-taught enthusiast
+      link: # dejar en blanco
+
     - item: Empathy
       link: # dejar en blanco
 
@@ -50,7 +53,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Passionate about technology and always looking for knowledge to improve my skills. I’m very detail oriented focused on creating beautiful user interfaces, writing clean code and driven to work with diverse teams.
+ Passionate about technology and always looking for knowledge to improve my skills. I’m very detail oriented focused on creating beautiful user interfaces, writing clean code and driven to work with diverse teams.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -73,8 +76,16 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+  - role: React Native Mobile Developer
+    time: 2021 
+    company: BrightCoders Academy
+    details: |
+      App development using React Native, Firebase, Formik, Yup and other libraries.
+      Good practices applying SOLID principles, Agile methods, Git, Slack and Code Climate.
+
+experiences:
   - role: Web Developer
-    time: 2021 - Present
+    time: 2021 
     company: Devux, Guadalajara
     details: |
       Frontend development with responsive and aesthetic design, layouts and implementing Javascript for ecommerce websites.
@@ -90,20 +101,30 @@ skills:
 
   toolset:
     - name: HTML
-      level: 80%
+      level: 85%
 
     - name: CSS
-      level: 80%
+      level: 90%
 
     - name: SASS
-      level: 20%
+      level: 40%
 
     - name: Javascript
-      level: 60%
+      level: 85%
       
     - name: React Native
-      level: 20%
+      level: 70%
+    
+    - name: Firebase
+      level: 80%
+    
+    - name: Figma
+      level: 65%
+    
+    - name: Git/Github
+      level: 80%
 
 # NO MODIFICAR
 footer: >
   BrightCoders Academy
+
